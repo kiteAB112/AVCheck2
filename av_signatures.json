@@ -1,0 +1,2968 @@
+{
+  "version": 1,
+  "signatures": [
+    {
+      "process": "360tray.exe",
+      "products": [
+        "360安全卫士-实时保护"
+      ]
+    },
+    {
+      "process": "360safe.exe",
+      "products": [
+        "360安全卫士-主程序"
+      ]
+    },
+    {
+      "process": "ZhuDongFangYu.exe",
+      "products": [
+        "360安全卫士-主动防御"
+      ]
+    },
+    {
+      "process": "360sd.exe",
+      "products": [
+        "360杀毒"
+      ]
+    },
+    {
+      "process": "a2guard.exe",
+      "products": [
+        "a-squared杀毒"
+      ]
+    },
+    {
+      "process": "ad-watch.exe",
+      "products": [
+        "Lavasoft杀毒"
+      ]
+    },
+    {
+      "process": "cleaner8.exe",
+      "products": [
+        "The Cleaner杀毒"
+      ]
+    },
+    {
+      "process": "vba32lder.exe",
+      "products": [
+        "vb32杀毒"
+      ]
+    },
+    {
+      "process": "MongoosaGUI.exe",
+      "products": [
+        "Mongoosa杀毒"
+      ]
+    },
+    {
+      "process": "CorantiControlCenter32.exe",
+      "products": [
+        "Coranti2012杀毒"
+      ]
+    },
+    {
+      "process": "F-PROT.exe",
+      "products": [
+        "F-Prot AntiVirus"
+      ]
+    },
+    {
+      "process": "CMCTrayIcon.exe",
+      "products": [
+        "CMC杀毒"
+      ]
+    },
+    {
+      "process": "K7TSecurity.exe",
+      "products": [
+        "K7杀毒"
+      ]
+    },
+    {
+      "process": "UnThreat.exe",
+      "products": [
+        "UnThreat杀毒"
+      ]
+    },
+    {
+      "process": "CKSoftShiedAntivirus4.exe",
+      "products": [
+        "Shield Antivirus杀毒"
+      ]
+    },
+    {
+      "process": "AVWatchService.exe",
+      "products": [
+        "VIRUSfighter杀毒"
+      ]
+    },
+    {
+      "process": "ArcaTasksService.exe",
+      "products": [
+        "ArcaVir杀毒"
+      ]
+    },
+    {
+      "process": "iptray.exe",
+      "products": [
+        "Immunet杀毒"
+      ]
+    },
+    {
+      "process": "PSafeSysTray.exe",
+      "products": [
+        "PSafe杀毒"
+      ]
+    },
+    {
+      "process": "nspupsvc.exe",
+      "products": [
+        "nProtect杀毒"
+      ]
+    },
+    {
+      "process": "SpywareTerminatorShield.exe",
+      "products": [
+        "SpywareTerminator反间谍软件"
+      ]
+    },
+    {
+      "process": "BKavService.exe",
+      "products": [
+        "Bkav杀毒"
+      ]
+    },
+    {
+      "process": "MsMpEng.exe",
+      "products": [
+        "Microsoft Security Essentials"
+      ]
+    },
+    {
+      "process": "SBAMSvc.exe",
+      "products": [
+        "VIPRE"
+      ]
+    },
+    {
+      "process": "ccSvcHst.exe",
+      "products": [
+        "Norton杀毒"
+      ]
+    },
+    {
+      "process": "f-secure.exe",
+      "products": [
+        "冰岛"
+      ]
+    },
+    {
+      "process": "avp.exe",
+      "products": [
+        "Kaspersky"
+      ]
+    },
+    {
+      "process": "KvMonXP.exe",
+      "products": [
+        "江民杀毒"
+      ]
+    },
+    {
+      "process": "RavMonD.exe",
+      "products": [
+        "瑞星杀毒"
+      ]
+    },
+    {
+      "process": "Mcshield.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "Tbmon.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "Frameworkservice.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "egui.exe",
+      "products": [
+        "ESET NOD32"
+      ]
+    },
+    {
+      "process": "ekrn.exe",
+      "products": [
+        "ESET NOD32"
+      ]
+    },
+    {
+      "process": "eguiProxy.exe",
+      "products": [
+        "ESET NOD32"
+      ]
+    },
+    {
+      "process": "kxetray.exe",
+      "products": [
+        "金山毒霸"
+      ]
+    },
+    {
+      "process": "knsdtray.exe",
+      "products": [
+        "可牛杀毒"
+      ]
+    },
+    {
+      "process": "TMBMSRV.exe",
+      "products": [
+        "趋势杀毒"
+      ]
+    },
+    {
+      "process": "avcenter.exe",
+      "products": [
+        "Avira(小红伞)"
+      ]
+    },
+    {
+      "process": "avguard.exe",
+      "products": [
+        "Avira(小红伞)"
+      ]
+    },
+    {
+      "process": "avgnt.exe",
+      "products": [
+        "Avira(小红伞)"
+      ]
+    },
+    {
+      "process": "sched.exe",
+      "products": [
+        "Avira(小红伞)"
+      ]
+    },
+    {
+      "process": "ashDisp.exe",
+      "products": [
+        "Avast网络安全"
+      ]
+    },
+    {
+      "process": "rtvscan.exe",
+      "products": [
+        "诺顿杀毒"
+      ]
+    },
+    {
+      "process": "ccapp.exe",
+      "products": [
+        "SymantecNorton"
+      ]
+    },
+    {
+      "process": "NPFMntor.exe",
+      "products": [
+        "Norton杀毒软件"
+      ]
+    },
+    {
+      "process": "ccSetMgr.exe",
+      "products": [
+        "赛门铁克"
+      ]
+    },
+    {
+      "process": "ccRegVfy.exe",
+      "products": [
+        "Norton杀毒软件"
+      ]
+    },
+    {
+      "process": "ksafe.exe",
+      "products": [
+        "金山卫士"
+      ]
+    },
+    {
+      "process": "QQPCRTP.exe",
+      "products": [
+        "QQ电脑管家"
+      ]
+    },
+    {
+      "process": "avgwdsvc.exe",
+      "products": [
+        "AVG杀毒"
+      ]
+    },
+    {
+      "process": "QUHLPSVC.exe",
+      "products": [
+        "QUICK HEAL杀毒"
+      ]
+    },
+    {
+      "process": "mssecess.exe",
+      "products": [
+        "微软杀毒"
+      ]
+    },
+    {
+      "process": "SavProgress.exe",
+      "products": [
+        "Sophos杀毒"
+      ]
+    },
+    {
+      "process": "SophosUI.exe",
+      "products": [
+        "Sophos杀毒"
+      ]
+    },
+    {
+      "process": "SophosFS.exe",
+      "products": [
+        "Sophos杀毒"
+      ]
+    },
+    {
+      "process": "SophosHealth.exe",
+      "products": [
+        "Sophos杀毒"
+      ]
+    },
+    {
+      "process": "SophosSafestore64.exe",
+      "products": [
+        "Sophos杀毒"
+      ]
+    },
+    {
+      "process": "SophosCleanM.exe",
+      "products": [
+        "Sophos杀毒"
+      ]
+    },
+    {
+      "process": "fsavgui.exe",
+      "products": [
+        "F-Secure杀毒"
+      ]
+    },
+    {
+      "process": "vsserv.exe",
+      "products": [
+        "比特梵德"
+      ]
+    },
+    {
+      "process": "remupd.exe",
+      "products": [
+        "熊猫卫士"
+      ]
+    },
+    {
+      "process": "FortiTray.exe",
+      "products": [
+        "飞塔"
+      ]
+    },
+    {
+      "process": "safedog.exe",
+      "products": [
+        "安全狗"
+      ]
+    },
+    {
+      "process": "parmor.exe",
+      "products": [
+        "木马克星"
+      ]
+    },
+    {
+      "process": "Iparmor.exe.exe",
+      "products": [
+        "木马克星"
+      ]
+    },
+    {
+      "process": "beikesan.exe",
+      "products": [
+        "贝壳云安全"
+      ]
+    },
+    {
+      "process": "KSWebShield.exe",
+      "products": [
+        "金山网盾"
+      ]
+    },
+    {
+      "process": "TrojanHunter.exe",
+      "products": [
+        "木马猎手"
+      ]
+    },
+    {
+      "process": "GG.exe",
+      "products": [
+        "巨盾网游安全盾"
+      ]
+    },
+    {
+      "process": "adam.exe",
+      "products": [
+        "绿鹰安全精灵"
+      ]
+    },
+    {
+      "process": "AST.exe",
+      "products": [
+        "超级巡警"
+      ]
+    },
+    {
+      "process": "ananwidget.exe",
+      "products": [
+        "墨者安全专家"
+      ]
+    },
+    {
+      "process": "AVK.exe",
+      "products": [
+        "AntiVirusKit"
+      ]
+    },
+    {
+      "process": "avg.exe",
+      "products": [
+        "AVG Anti-Virus"
+      ]
+    },
+    {
+      "process": "spidernt.exe",
+      "products": [
+        "Dr.web"
+      ]
+    },
+    {
+      "process": "avgaurd.exe",
+      "products": [
+        "Avira Antivir"
+      ]
+    },
+    {
+      "process": "vsmon.exe",
+      "products": [
+        "Zone Alarm"
+      ]
+    },
+    {
+      "process": "cpf.exe",
+      "products": [
+        "Comodo"
+      ]
+    },
+    {
+      "process": "outpost.exe",
+      "products": [
+        "Outpost Firewall"
+      ]
+    },
+    {
+      "process": "rfwmain.exe",
+      "products": [
+        "瑞星防火墙"
+      ]
+    },
+    {
+      "process": "kpfwtray.exe",
+      "products": [
+        "金山网镖"
+      ]
+    },
+    {
+      "process": "FYFireWall.exe",
+      "products": [
+        "风云防火墙"
+      ]
+    },
+    {
+      "process": "MPMon.exe",
+      "products": [
+        "微点主动防御"
+      ]
+    },
+    {
+      "process": "pfw.exe",
+      "products": [
+        "天网防火墙"
+      ]
+    },
+    {
+      "process": "BaiduSdSvc.exe",
+      "products": [
+        "百度杀毒-服务进程"
+      ]
+    },
+    {
+      "process": "BaiduSdTray.exe",
+      "products": [
+        "百度杀毒-托盘进程"
+      ]
+    },
+    {
+      "process": "BaiduSd.exe",
+      "products": [
+        "百度杀毒-主程序"
+      ]
+    },
+    {
+      "process": "SafeDogGuardCenter.exe",
+      "products": [
+        "安全狗"
+      ]
+    },
+    {
+      "process": "safedogupdatecenter.exe",
+      "products": [
+        "安全狗"
+      ]
+    },
+    {
+      "process": "SafeDogSiteIIS.exe",
+      "products": [
+        "安全狗"
+      ]
+    },
+    {
+      "process": "SafeDogTray.exe",
+      "products": [
+        "安全狗"
+      ]
+    },
+    {
+      "process": "SafeDogServerUI.exe",
+      "products": [
+        "安全狗"
+      ]
+    },
+    {
+      "process": "D_Safe_Manage.exe",
+      "products": [
+        "D盾"
+      ]
+    },
+    {
+      "process": "d_manage.exe",
+      "products": [
+        "D盾"
+      ]
+    },
+    {
+      "process": "yunsuo_agent_service.exe",
+      "products": [
+        "云锁"
+      ]
+    },
+    {
+      "process": "yunsuo_agent_daemon.exe",
+      "products": [
+        "云锁"
+      ]
+    },
+    {
+      "process": "HwsPanel.exe",
+      "products": [
+        "护卫神"
+      ]
+    },
+    {
+      "process": "hws_ui.exe",
+      "products": [
+        "护卫神"
+      ]
+    },
+    {
+      "process": "hws.exe",
+      "products": [
+        "护卫神"
+      ]
+    },
+    {
+      "process": "hwsd.exe",
+      "products": [
+        "护卫神"
+      ]
+    },
+    {
+      "process": "hipstray.exe",
+      "products": [
+        "火绒"
+      ]
+    },
+    {
+      "process": "wsctrl.exe",
+      "products": [
+        "火绒"
+      ]
+    },
+    {
+      "process": "usysdiag.exe",
+      "products": [
+        "火绒"
+      ]
+    },
+    {
+      "process": "SPHINX.exe",
+      "products": [
+        "SPHINX防火墙"
+      ]
+    },
+    {
+      "process": "bddownloader.exe",
+      "products": [
+        "百度卫士"
+      ]
+    },
+    {
+      "process": "baiduansvx.exe",
+      "products": [
+        "百度卫士-主进程"
+      ]
+    },
+    {
+      "process": "AvastUI.exe",
+      "products": [
+        "Avast!5主程序"
+      ]
+    },
+    {
+      "process": "emet_agent.exe",
+      "products": [
+        "EMET"
+      ]
+    },
+    {
+      "process": "emet_service.exe",
+      "products": [
+        "EMET"
+      ]
+    },
+    {
+      "process": "firesvc.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "firetray.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "hipsvc.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mfevtps.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mcafeefire.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "scan32.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "shstat.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "vstskmgr.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "engineserver.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mfeann.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mcscript.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "updaterui.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "udaterui.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "naprdmgr.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "cleanup.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "cmdagent.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "frminst.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mcscript_inuse.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mctray.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "_avp32.exe",
+      "products": [
+        "卡巴斯基"
+      ]
+    },
+    {
+      "process": "_avpcc.exe",
+      "products": [
+        "卡巴斯基"
+      ]
+    },
+    {
+      "process": "_avpm.exe",
+      "products": [
+        "卡巴斯基"
+      ]
+    },
+    {
+      "process": "aAvgApi.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "ackwin32.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "alertsvc.exe",
+      "products": [
+        "Norton AntiVirus"
+      ]
+    },
+    {
+      "process": "alogserv.exe",
+      "products": [
+        "McAfee VirusScan"
+      ]
+    },
+    {
+      "process": "anti-trojan.exe",
+      "products": [
+        "Anti-Trojan Elite"
+      ]
+    },
+    {
+      "process": "arr.exe",
+      "products": [
+        "Application Request Route"
+      ]
+    },
+    {
+      "process": "atguard.exe",
+      "products": [
+        "AntiVir"
+      ]
+    },
+    {
+      "process": "atupdater.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "atwatch.exe",
+      "products": [
+        "Mustek"
+      ]
+    },
+    {
+      "process": "au.exe",
+      "products": [
+        "NSIS"
+      ]
+    },
+    {
+      "process": "aupdate.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "auto-protect.nav80try.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "autodown.exe",
+      "products": [
+        "AntiVirus AutoUpdater"
+      ]
+    },
+    {
+      "process": "avconsol.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "avgcc32.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "avgctrl.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "avgemc.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "avgrsx.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "avgserv.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "avgserv9.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "avgw.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "avkpop.exe",
+      "products": [
+        "G DATA SOFTWARE AG"
+      ]
+    },
+    {
+      "process": "avkserv.exe",
+      "products": [
+        "G DATA SOFTWARE AG"
+      ]
+    },
+    {
+      "process": "avkservice.exe",
+      "products": [
+        "G DATA SOFTWARE AG"
+      ]
+    },
+    {
+      "process": "avkwctl9.exe",
+      "products": [
+        "G DATA SOFTWARE AG"
+      ]
+    },
+    {
+      "process": "avltmain.exe",
+      "products": [
+        "Panda Software Aplication"
+      ]
+    },
+    {
+      "process": "avnt.exe",
+      "products": [
+        "H+BEDV Datentechnik GmbH"
+      ]
+    },
+    {
+      "process": "avp32.exe",
+      "products": [
+        "Kaspersky Anti-Virus"
+      ]
+    },
+    {
+      "process": "avpcc.exe",
+      "products": [
+        "Kaspersky AntiVirus",
+        "Kaspersky"
+      ]
+    },
+    {
+      "process": "avpdos32.exe",
+      "products": [
+        "Kaspersky AntiVirus"
+      ]
+    },
+    {
+      "process": "avpm.exe",
+      "products": [
+        "Kaspersky AntiVirus",
+        "Kaspersky"
+      ]
+    },
+    {
+      "process": "avptc32.exe",
+      "products": [
+        "Kaspersky AntiVirus"
+      ]
+    },
+    {
+      "process": "avpupd.exe",
+      "products": [
+        "Kaspersky AntiVirus"
+      ]
+    },
+    {
+      "process": "avsynmgr.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "avwin.exe",
+      "products": [
+        "H+BEDV"
+      ]
+    },
+    {
+      "process": "bargains.exe",
+      "products": [
+        "Exact Advertising SpyWare"
+      ]
+    },
+    {
+      "process": "beagle.exe",
+      "products": [
+        "Avast"
+      ]
+    },
+    {
+      "process": "blackd.exe",
+      "products": [
+        "BlackICE"
+      ]
+    },
+    {
+      "process": "blackice.exe",
+      "products": [
+        "BlackICE"
+      ]
+    },
+    {
+      "process": "blink.exe",
+      "products": [
+        "micromedia"
+      ]
+    },
+    {
+      "process": "blss.exe",
+      "products": [
+        "CBlaster"
+      ]
+    },
+    {
+      "process": "bootwarn.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "bpc.exe",
+      "products": [
+        "Grokster"
+      ]
+    },
+    {
+      "process": "brasil.exe",
+      "products": [
+        "Exact Advertising"
+      ]
+    },
+    {
+      "process": "ccevtmgr.exe",
+      "products": [
+        "Norton Internet Security",
+        "Symantec"
+      ]
+    },
+    {
+      "process": "cdp.exe",
+      "products": [
+        "CyberLink Corp."
+      ]
+    },
+    {
+      "process": "cfd.exe",
+      "products": [
+        "Motive Communications"
+      ]
+    },
+    {
+      "process": "cfgwiz.exe",
+      "products": [
+        "Norton AntiVirus"
+      ]
+    },
+    {
+      "process": "claw95.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "claw95cf.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "clean.exe",
+      "products": [
+        "windows流氓软件清理大师"
+      ]
+    },
+    {
+      "process": "cleaner.exe",
+      "products": [
+        "windows流氓软件清理大师"
+      ]
+    },
+    {
+      "process": "cleaner3.exe",
+      "products": [
+        "windows流氓软件清理大师"
+      ]
+    },
+    {
+      "process": "cleanpc.exe",
+      "products": [
+        "windows流氓软件清理大师"
+      ]
+    },
+    {
+      "process": "cpd.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "ctrl.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "cv.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "defalert.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "defscangui.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "defwatch.exe",
+      "products": [
+        "Norton Antivirus"
+      ]
+    },
+    {
+      "process": "doors.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "dpf.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "dpps2.exe",
+      "products": [
+        "PanicWare"
+      ]
+    },
+    {
+      "process": "dssagent.exe",
+      "products": [
+        "Broderbund"
+      ]
+    },
+    {
+      "process": "ecengine.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "emsw.exe",
+      "products": [
+        "Alset Inc"
+      ]
+    },
+    {
+      "process": "ent.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "espwatch.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "ethereal.exe",
+      "products": [
+        "RationalClearCase"
+      ]
+    },
+    {
+      "process": "exe.avxw.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "expert.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "f-prot95.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "fameh32.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "fast.exe",
+      "products": [
+        "FastUsr"
+      ]
+    },
+    {
+      "process": "fch32.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "fih32.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "findviru.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "firewall.exe",
+      "products": [
+        "AshampooSoftware"
+      ]
+    },
+    {
+      "process": "fnrb32.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "fp-win.exe",
+      "products": [
+        "F-Prot Antivirus OnDemand"
+      ]
+    },
+    {
+      "process": "fsaa.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "fsav.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "fsav32.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "fsav530stbyb.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "fsav530wtbyb.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "fsav95.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "fsgk32.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "fsm32.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "fsma32.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "fsmb32.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "gbmenu.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "guard.exe",
+      "products": [
+        "ewido"
+      ]
+    },
+    {
+      "process": "guarddog.exe",
+      "products": [
+        "ewido"
+      ]
+    },
+    {
+      "process": "htlog.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "htpatch.exe",
+      "products": [
+        "Silicon Integrated Systems Corporation"
+      ]
+    },
+    {
+      "process": "hwpe.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "iamapp.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "iamserv.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "iamstats.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "iedriver.exe",
+      "products": [
+        "Urlblaze.com"
+      ]
+    },
+    {
+      "process": "iface.exe",
+      "products": [
+        "Panda Antivirus Module"
+      ]
+    },
+    {
+      "process": "infus.exe",
+      "products": [
+        "Infus Dialer"
+      ]
+    },
+    {
+      "process": "infwin.exe",
+      "products": [
+        "Msviewparasite"
+      ]
+    },
+    {
+      "process": "intdel.exe",
+      "products": [
+        "Inet Delivery"
+      ]
+    },
+    {
+      "process": "intren.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "jammer.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "kavpf.exe",
+      "products": [
+        "Kapersky",
+        "Kaspersky"
+      ]
+    },
+    {
+      "process": "kazza.exe",
+      "products": [
+        "Kapersky"
+      ]
+    },
+    {
+      "process": "keenvalue.exe",
+      "products": [
+        "EUNIVERSE INC"
+      ]
+    },
+    {
+      "process": "launcher.exe",
+      "products": [
+        "Intercort Systems"
+      ]
+    },
+    {
+      "process": "ldpro.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "ldscan.exe",
+      "products": [
+        "Windows Trojans Inspector"
+      ]
+    },
+    {
+      "process": "localnet.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "luall.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "luau.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "lucomserver.exe",
+      "products": [
+        "Norton"
+      ]
+    },
+    {
+      "process": "mcagent.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mcmnhdlr.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mctool.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mcupdate.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mcvsrte.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mcvsshld.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mfin32.exe",
+      "products": [
+        "MyFreeInternetUpdate"
+      ]
+    },
+    {
+      "process": "mfw2en.exe",
+      "products": [
+        "MyFreeInternetUpdate"
+      ]
+    },
+    {
+      "process": "mfweng3.02d30.exe",
+      "products": [
+        "MyFreeInternetUpdate"
+      ]
+    },
+    {
+      "process": "mgavrtcl.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mgavrte.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mghtml.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mgui.exe",
+      "products": [
+        "BullGuard"
+      ]
+    },
+    {
+      "process": "minilog.exe",
+      "products": [
+        "Zone Labs Inc",
+        "Zone Alarm"
+      ]
+    },
+    {
+      "process": "mmod.exe",
+      "products": [
+        "EzulaInc"
+      ]
+    },
+    {
+      "process": "mostat.exe",
+      "products": [
+        "WurldMediaInc"
+      ]
+    },
+    {
+      "process": "mpfagent.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mpfservice.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mpftray.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "mscache.exe",
+      "products": [
+        "Integrated Search Technologies Spyware"
+      ]
+    },
+    {
+      "process": "mscman.exe",
+      "products": [
+        "OdysseusMarketingInc"
+      ]
+    },
+    {
+      "process": "msmgt.exe",
+      "products": [
+        "Total Velocity Spyware"
+      ]
+    },
+    {
+      "process": "msvxd.exe",
+      "products": [
+        "W32/Datom-A"
+      ]
+    },
+    {
+      "process": "mwatch.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "nav.exe",
+      "products": [
+        "Reuters Limited"
+      ]
+    },
+    {
+      "process": "navapsvc.exe",
+      "products": [
+        "Norton AntiVirus",
+        "Norton"
+      ]
+    },
+    {
+      "process": "navapw32.exe",
+      "products": [
+        "Norton AntiVirus",
+        "Norton"
+      ]
+    },
+    {
+      "process": "navw32.exe",
+      "products": [
+        "Norton Antivirus"
+      ]
+    },
+    {
+      "process": "ndd32.exe",
+      "products": [
+        "诺顿磁盘医生"
+      ]
+    },
+    {
+      "process": "neowatchlog.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录",
+        "NeoWatch"
+      ]
+    },
+    {
+      "process": "netutils.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "nisserv.exe",
+      "products": [
+        "Norton"
+      ]
+    },
+    {
+      "process": "nisum.exe",
+      "products": [
+        "Norton"
+      ]
+    },
+    {
+      "process": "nmain.exe",
+      "products": [
+        "Norton"
+      ]
+    },
+    {
+      "process": "nod32.exe",
+      "products": [
+        "ESET Smart Security",
+        "ESET NOD32"
+      ]
+    },
+    {
+      "process": "norton_internet_secu_3.0_407.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "notstart.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "nprotect.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "npscheck.exe",
+      "products": [
+        "Norton"
+      ]
+    },
+    {
+      "process": "npssvc.exe",
+      "products": [
+        "Norton"
+      ]
+    },
+    {
+      "process": "ntrtscan.exe",
+      "products": [
+        "趋势反病毒应用程序",
+        "趋势科技"
+      ]
+    },
+    {
+      "process": "nui.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "otfix.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "outpostinstall.exe",
+      "products": [
+        "Outpost"
+      ]
+    },
+    {
+      "process": "patch.exe",
+      "products": [
+        "趋势科技"
+      ]
+    },
+    {
+      "process": "pavw.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "pcscan.exe",
+      "products": [
+        "趋势科技"
+      ]
+    },
+    {
+      "process": "pdsetup.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "persfw.exe",
+      "products": [
+        "Tiny Personal Firewall"
+      ]
+    },
+    {
+      "process": "pgmonitr.exe",
+      "products": [
+        "PromulGate SpyWare"
+      ]
+    },
+    {
+      "process": "pingscan.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "platin.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "pop3trap.exe",
+      "products": [
+        "PC-cillin"
+      ]
+    },
+    {
+      "process": "poproxy.exe",
+      "products": [
+        "NortonAntiVirus"
+      ]
+    },
+    {
+      "process": "popscan.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "powerscan.exe",
+      "products": [
+        "Integrated Search Technologies"
+      ]
+    },
+    {
+      "process": "ppinupdt.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "pptbc.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "ppvstop.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "prizesurfer.exe",
+      "products": [
+        "Prizesurfer"
+      ]
+    },
+    {
+      "process": "prmt.exe",
+      "products": [
+        "OpiStat"
+      ]
+    },
+    {
+      "process": "prmvr.exe",
+      "products": [
+        "Adtomi"
+      ]
+    },
+    {
+      "process": "processmonitor.exe",
+      "products": [
+        "Sysinternals"
+      ]
+    },
+    {
+      "process": "proport.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "protectx.exe",
+      "products": [
+        "ProtectX"
+      ]
+    },
+    {
+      "process": "pspf.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "purge.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "qconsole.exe",
+      "products": [
+        "Norton AntiVirus Quarantine Console"
+      ]
+    },
+    {
+      "process": "qserver.exe",
+      "products": [
+        "Norton Internet Security"
+      ]
+    },
+    {
+      "process": "rapapp.exe",
+      "products": [
+        "BlackICE"
+      ]
+    },
+    {
+      "process": "rb32.exe",
+      "products": [
+        "RapidBlaster"
+      ]
+    },
+    {
+      "process": "rcsync.exe",
+      "products": [
+        "PrizeSurfer"
+      ]
+    },
+    {
+      "process": "realmon.exe",
+      "products": [
+        "Realmon"
+      ]
+    },
+    {
+      "process": "rescue.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "rescue32.exe",
+      "products": [
+        "卡巴斯基互联网安全套装"
+      ]
+    },
+    {
+      "process": "rshell.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "rtvscn95.exe",
+      "products": [
+        "Real-time virus scanner",
+        "Real-time Virus Scanner"
+      ]
+    },
+    {
+      "process": "rulaunch.exe",
+      "products": [
+        "McAfee User Interface"
+      ]
+    },
+    {
+      "process": "run32dll.exe",
+      "products": [
+        "PAL PC Spy"
+      ]
+    },
+    {
+      "process": "safeweb.exe",
+      "products": [
+        "PSafe Tecnologia"
+      ]
+    },
+    {
+      "process": "sbserv.exe",
+      "products": [
+        "Norton Antivirus"
+      ]
+    },
+    {
+      "process": "scrscan.exe",
+      "products": [
+        "360杀毒"
+      ]
+    },
+    {
+      "process": "sfc.exe",
+      "products": [
+        "System file checker"
+      ]
+    },
+    {
+      "process": "sh.exe",
+      "products": [
+        "MKS Toolkit for Win3"
+      ]
+    },
+    {
+      "process": "showbehind.exe",
+      "products": [
+        "MicroSmarts Enterprise Component"
+      ]
+    },
+    {
+      "process": "soap.exe",
+      "products": [
+        "System Soap Pro"
+      ]
+    },
+    {
+      "process": "sofi.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "sperm.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "supporter5.exe",
+      "products": [
+        "eScorcher反病毒"
+      ]
+    },
+    {
+      "process": "symproxysvc.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "symtray.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "tbscan.exe",
+      "products": [
+        "ThunderBYTE"
+      ]
+    },
+    {
+      "process": "tc.exe",
+      "products": [
+        "TimeCalende"
+      ]
+    },
+    {
+      "process": "titanin.exe",
+      "products": [
+        "TitanHide"
+      ]
+    },
+    {
+      "process": "tvmd.exe",
+      "products": [
+        "Total Velocity"
+      ]
+    },
+    {
+      "process": "tvtmd.exe",
+      "products": [
+        "Total Velocity"
+      ]
+    },
+    {
+      "process": "vettray.exe",
+      "products": [
+        "eTrust"
+      ]
+    },
+    {
+      "process": "vir-help.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "vnpc3000.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "vpc32.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "vpc42.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "vshwin32.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "vsmain.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "vsstat.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "wfindv32.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "zapro.exe",
+      "products": [
+        "Zone Alarm"
+      ]
+    },
+    {
+      "process": "zonealarm.exe",
+      "products": [
+        "Zone Alarm"
+      ]
+    },
+    {
+      "process": "A2CMD.exe",
+      "products": [
+        "Emsisoft Anti-Malware"
+      ]
+    },
+    {
+      "process": "A2SERVICE.exe",
+      "products": [
+        "a-squared free"
+      ]
+    },
+    {
+      "process": "A2FREE.exe",
+      "products": [
+        "a-squared Free"
+      ]
+    },
+    {
+      "process": "ADVCHK.exe",
+      "products": [
+        "Norton AntiVirus"
+      ]
+    },
+    {
+      "process": "AGB.exe",
+      "products": [
+        "安天防线"
+      ]
+    },
+    {
+      "process": "AHPROCMONSERVER.exe",
+      "products": [
+        "安天防线"
+      ]
+    },
+    {
+      "process": "AIRDEFENSE.exe",
+      "products": [
+        "AirDefense"
+      ]
+    },
+    {
+      "process": "AVIRA.exe",
+      "products": [
+        "小红伞杀毒"
+      ]
+    },
+    {
+      "process": "AMON.exe",
+      "products": [
+        "Tiny Personal Firewall"
+      ]
+    },
+    {
+      "process": "AVZ.exe",
+      "products": [
+        "AVZ"
+      ]
+    },
+    {
+      "process": "ANTIVIR.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "APVXDWIN.exe",
+      "products": [
+        "熊猫卫士"
+      ]
+    },
+    {
+      "process": "ASHMAISV.exe",
+      "products": [
+        "Alwil"
+      ]
+    },
+    {
+      "process": "ASHSERV.exe",
+      "products": [
+        "Avast Anti-virus"
+      ]
+    },
+    {
+      "process": "ASHSIMPL.exe",
+      "products": [
+        "AVAST!VirusCleaner"
+      ]
+    },
+    {
+      "process": "ASHWEBSV.exe",
+      "products": [
+        "Avast"
+      ]
+    },
+    {
+      "process": "ASWUPDSV.exe",
+      "products": [
+        "Avast"
+      ]
+    },
+    {
+      "process": "ASWSCAN.exe",
+      "products": [
+        "Avast"
+      ]
+    },
+    {
+      "process": "AVCIMAN.exe",
+      "products": [
+        "熊猫卫士"
+      ]
+    },
+    {
+      "process": "AVENGINE.exe",
+      "products": [
+        "熊猫卫士"
+      ]
+    },
+    {
+      "process": "AVESVC.exe",
+      "products": [
+        "Avira AntiVir Security Service"
+      ]
+    },
+    {
+      "process": "AVEVL32.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "AVGAM.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "AVGCC.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "AVGCHSVX.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "AVGCSRVX",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "AVGNSX.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "AVGFWSRV.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "AVGNTMGR.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "AVGTRAY.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "AVGUPSVC.exe",
+      "products": [
+        "AVG"
+      ]
+    },
+    {
+      "process": "AVINITNT.exe",
+      "products": [
+        "Command AntiVirus for NT Server"
+      ]
+    },
+    {
+      "process": "AVSERVER.exe",
+      "products": [
+        "Kerio MailServer"
+      ]
+    },
+    {
+      "process": "AVSCHED32.exe",
+      "products": [
+        "H+BEDV"
+      ]
+    },
+    {
+      "process": "AVWUPSRV.exe",
+      "products": [
+        "H+BEDV"
+      ]
+    },
+    {
+      "process": "BDSWITCH.exe",
+      "products": [
+        "BitDefender Module"
+      ]
+    },
+    {
+      "process": "CFP.exe",
+      "products": [
+        "COMODO"
+      ]
+    },
+    {
+      "process": "CLAMWIN.exe",
+      "products": [
+        "ClamWin Portable"
+      ]
+    },
+    {
+      "process": "CUREIT.exe",
+      "products": [
+        "DrWeb CureIT"
+      ]
+    },
+    {
+      "process": "DRWADINS.exe",
+      "products": [
+        "Dr.Web"
+      ]
+    },
+    {
+      "process": "DRWEB.exe",
+      "products": [
+        "Dr.Web"
+      ]
+    },
+    {
+      "process": "DEFENDERDAEMON.exe",
+      "products": [
+        "ShadowDefender"
+      ]
+    },
+    {
+      "process": "EWIDOCTRL.exe",
+      "products": [
+        "Ewido Security Suite"
+      ]
+    },
+    {
+      "process": "EZANTIVIRUSREGISTRATIONCHECK.exe",
+      "products": [
+        "e-Trust Antivirus"
+      ]
+    },
+    {
+      "process": "FPROTTRAY.exe",
+      "products": [
+        "F-PROT Antivirus"
+      ]
+    },
+    {
+      "process": "FPWIN.exe",
+      "products": [
+        "Verizon"
+      ]
+    },
+    {
+      "process": "FRESHCLAM.exe",
+      "products": [
+        "ClamAV"
+      ]
+    },
+    {
+      "process": "FSBWSYS.exe",
+      "products": [
+        "F-secure"
+      ]
+    },
+    {
+      "process": "FSDFWD.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "FSGK32ST.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "FSSM32.exe",
+      "products": [
+        "F-Secure"
+      ]
+    },
+    {
+      "process": "GUARDGUI.exe",
+      "products": [
+        "网游保镖"
+      ]
+    },
+    {
+      "process": "GUARDNT.exe",
+      "products": [
+        "IKARUS"
+      ]
+    },
+    {
+      "process": "INOCIT.exe",
+      "products": [
+        "eTrust"
+      ]
+    },
+    {
+      "process": "INORPC.exe",
+      "products": [
+        "eTrust"
+      ]
+    },
+    {
+      "process": "INORT.exe",
+      "products": [
+        "eTrust"
+      ]
+    },
+    {
+      "process": "INOTASK.exe",
+      "products": [
+        "eTrust"
+      ]
+    },
+    {
+      "process": "INOUPTNG.exe",
+      "products": [
+        "eTrust"
+      ]
+    },
+    {
+      "process": "ISAFE.exe",
+      "products": [
+        "eTrust"
+      ]
+    },
+    {
+      "process": "KAV.exe",
+      "products": [
+        "Kaspersky"
+      ]
+    },
+    {
+      "process": "KAVMM.exe",
+      "products": [
+        "Kaspersky"
+      ]
+    },
+    {
+      "process": "KAVPFW.exe",
+      "products": [
+        "Kaspersky"
+      ]
+    },
+    {
+      "process": "KAVSTART.exe",
+      "products": [
+        "Kaspersky"
+      ]
+    },
+    {
+      "process": "KAVSVC.exe",
+      "products": [
+        "Kaspersky"
+      ]
+    },
+    {
+      "process": "KAVSVCUI.exe",
+      "products": [
+        "Kaspersky"
+      ]
+    },
+    {
+      "process": "KMAILMON.exe",
+      "products": [
+        "金山毒霸"
+      ]
+    },
+    {
+      "process": "MCREGWIZ.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "MYAGTSVC.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "MYAGTTRY.exe",
+      "products": [
+        "McAfee"
+      ]
+    },
+    {
+      "process": "NAVLU32.exe",
+      "products": [
+        "Norton"
+      ]
+    },
+    {
+      "process": "NEOWATCHTRAY.exe",
+      "products": [
+        "NeoWatch"
+      ]
+    },
+    {
+      "process": "NPFMSG.exe",
+      "products": [
+        "Norman个人防火墙"
+      ]
+    },
+    {
+      "process": "NSMDTR.exe",
+      "products": [
+        "Norton"
+      ]
+    },
+    {
+      "process": "OFCPFWSVC.exe",
+      "products": [
+        "OfficeScanNT"
+      ]
+    },
+    {
+      "process": "ONLINENT.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "OP_MON.exe",
+      "products": [
+        "OutpostFirewall"
+      ]
+    },
+    {
+      "process": "PAVFIRES.exe",
+      "products": [
+        "熊猫卫士"
+      ]
+    },
+    {
+      "process": "PAVFNSVR.exe",
+      "products": [
+        "熊猫卫士"
+      ]
+    },
+    {
+      "process": "PAVKRE.exe",
+      "products": [
+        "熊猫卫士"
+      ]
+    },
+    {
+      "process": "PAVPROT.exe",
+      "products": [
+        "熊猫卫士"
+      ]
+    },
+    {
+      "process": "PAVPROXY.exe",
+      "products": [
+        "熊猫卫士"
+      ]
+    },
+    {
+      "process": "PAVPRSRV.exe",
+      "products": [
+        "熊猫卫士"
+      ]
+    },
+    {
+      "process": "PAVSRV51.exe",
+      "products": [
+        "熊猫卫士"
+      ]
+    },
+    {
+      "process": "PAVSS.exe",
+      "products": [
+        "熊猫卫士"
+      ]
+    },
+    {
+      "process": "PCCGUIDE.exe",
+      "products": [
+        "PC-cillin"
+      ]
+    },
+    {
+      "process": "PCCIOMON.exe",
+      "products": [
+        "PC-cillin"
+      ]
+    },
+    {
+      "process": "PCCNTMON.exe",
+      "products": [
+        "PC-cillin"
+      ]
+    },
+    {
+      "process": "PCCPFW.exe",
+      "products": [
+        "趋势科技"
+      ]
+    },
+    {
+      "process": "PCCTLCOM.exe",
+      "products": [
+        "趋势科技"
+      ]
+    },
+    {
+      "process": "PCTAV.exe",
+      "products": [
+        "PC Tools AntiVirus"
+      ]
+    },
+    {
+      "process": "PERVAC.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "PESTPATROL.exe",
+      "products": [
+        "Ikarus"
+      ]
+    },
+    {
+      "process": "PREVSRV.exe",
+      "products": [
+        "熊猫卫士"
+      ]
+    },
+    {
+      "process": "SAVADMINSERVICE.exe",
+      "products": [
+        "SAV"
+      ]
+    },
+    {
+      "process": "SAVMAIN.exe",
+      "products": [
+        "SAV"
+      ]
+    },
+    {
+      "process": "SAVSCAN.exe",
+      "products": [
+        "SAV"
+      ]
+    },
+    {
+      "process": "SDHELP.exe",
+      "products": [
+        "Spyware Doctor"
+      ]
+    },
+    {
+      "process": "SPBBCSVC.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "SPIDERCPL.exe",
+      "products": [
+        "Dr.Web"
+      ]
+    },
+    {
+      "process": "SPIDERML.exe",
+      "products": [
+        "Dr.Web"
+      ]
+    },
+    {
+      "process": "SPIDERUI.exe",
+      "products": [
+        "Dr.Web"
+      ]
+    },
+    {
+      "process": "SPYBOTSD.exe",
+      "products": [
+        "Spybot"
+      ]
+    },
+    {
+      "process": "SWAGENT.exe",
+      "products": [
+        "SonicWALL"
+      ]
+    },
+    {
+      "process": "SWDOCTOR.exe",
+      "products": [
+        "SonicWALL"
+      ]
+    },
+    {
+      "process": "SWNETSUP.exe",
+      "products": [
+        "Sophos"
+      ]
+    },
+    {
+      "process": "SYMLCSVC.exe",
+      "products": [
+        "Symantec"
+      ]
+    },
+    {
+      "process": "SYMSPORT.exe",
+      "products": [
+        "Sysmantec"
+      ]
+    },
+    {
+      "process": "SYMWSC.exe",
+      "products": [
+        "Sysmantec"
+      ]
+    },
+    {
+      "process": "SYNMGR.exe",
+      "products": [
+        "Sysmantec"
+      ]
+    },
+    {
+      "process": "TMLISTEN.exe",
+      "products": [
+        "趋势科技"
+      ]
+    },
+    {
+      "process": "TMNTSRV.exe",
+      "products": [
+        "趋势科技"
+      ]
+    },
+    {
+      "process": "TMPROXY.exe",
+      "products": [
+        "趋势科技"
+      ]
+    },
+    {
+      "process": "TNBUTIL.exe",
+      "products": [
+        "Anti-Virus"
+      ]
+    },
+    {
+      "process": "VBA32ECM.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "VBA32IFS.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "VBA32PP3.exe",
+      "products": [
+        "已知杀软进程,名称暂未收录"
+      ]
+    },
+    {
+      "process": "VCRMON.exe",
+      "products": [
+        "VirusChaser"
+      ]
+    },
+    {
+      "process": "VRMONNT.exe",
+      "products": [
+        "HAURI"
+      ]
+    },
+    {
+      "process": "VRMONSVC.exe",
+      "products": [
+        "HAURI"
+      ]
+    },
+    {
+      "process": "XCOMMSVR.exe",
+      "products": [
+        "BitDefender"
+      ]
+    },
+    {
+      "process": "360rp.exe",
+      "products": [
+        "360杀毒"
+      ]
+    },
+    {
+      "process": "afwServ.exe",
+      "products": [
+        "Avast Antivirus"
+      ]
+    },
+    {
+      "process": "safeboxTray.exe",
+      "products": [
+        "360杀毒"
+      ]
+    },
+    {
+      "process": "360safebox.exe",
+      "products": [
+        "360杀毒"
+      ]
+    },
+    {
+      "process": "QQPCTray.exe",
+      "products": [
+        "QQ电脑管家"
+      ]
+    },
+    {
+      "process": "KSafeTray.exe",
+      "products": [
+        "金山毒霸"
+      ]
+    },
+    {
+      "process": "KSafeSvc.exe",
+      "products": [
+        "金山毒霸"
+      ]
+    },
+    {
+      "process": "KWatch.exe",
+      "products": [
+        "金山毒霸"
+      ]
+    },
+    {
+      "process": "gov_defence_service.exe",
+      "products": [
+        "云锁"
+      ]
+    },
+    {
+      "process": "gov_defence_daemon.exe",
+      "products": [
+        "云锁"
+      ]
+    },
+    {
+      "process": "smartscreen.exe",
+      "products": [
+        "Windows Defender"
+      ]
+    },
+    {
+      "process": "finalshell.exe",
+      "products": [
+        "finalshell终端管理"
+      ]
+    },
+    {
+      "process": "navicat.exe",
+      "products": [
+        "数据库管理"
+      ]
+    },
+    {
+      "process": "AliSecGuard.exe",
+      "products": [
+        "阿里云盾"
+      ]
+    },
+    {
+      "process": "AliYunDunUpdate.exe",
+      "products": [
+        "阿里云盾"
+      ]
+    },
+    {
+      "process": "AliYunDun.exe",
+      "products": [
+        "阿里云盾"
+      ]
+    },
+    {
+      "process": "CmsGoAgent.windows-amd64.",
+      "products": [
+        "阿里云监控"
+      ]
+    }
+  ]
+}
